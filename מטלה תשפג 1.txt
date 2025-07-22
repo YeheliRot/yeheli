@@ -1,0 +1,347 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "2f081b79-7480-4760-a4df-c7d8525604a7",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import numpy as np\n",
+    "import pandas as pd"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "79d598a3-a908-45ae-bcc8-ce8fb7eb0ade",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "# Identify:\n",
+    "\n",
+    "Please fill-in your ID in the following cell, **only id numbers, no names!**\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "3fe7d342-1f0e-418c-9d89-864073886603",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "id1 = \"123456789\"\n",
+    "id2 = \"123456789\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "b360d199-879b-4bae-bbdc-c3a14f85d392",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df = pd.DataFrame([id1])"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "633e3244-493a-4613-babf-5dfb786f0706",
+   "metadata": {},
+   "source": [
+    "Uncomment in case two students are doing the assignment together:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "3e3090cd-b9b3-4435-afc5-721c5587f8ef",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#df = pd.DataFrame([id1,id2])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "c2374c78-64c3-4d7c-9e78-7ab0c9003b45",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df.to_clipboard(index=False,header=False)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "069d6ea5-8ac2-4cbb-813d-fd3bde53e352",
+   "metadata": {},
+   "source": [
+    "Please fill your names here:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fedd24fc-7417-4f67-adc6-3466ce38d08a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d2b60456-295d-4052-8fca-a7804cdc4b36",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "# Q1"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8c726250-0e3c-4212-ace0-c729b42e78be",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f9976289-93d4-47fe-9622-d278d9325211",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f13a5e05-928f-4db2-af0b-4ce781ef0ffe",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5e36f3c1-1e1c-43bc-ae6e-39a4741c34a8",
+   "metadata": {},
+   "source": [
+    "# Q2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "627bc7d7-4767-4dbb-a928-78808f43499f",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4a840295-39d1-4e20-9236-14c84f3163c9",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "187fe4ec-25ba-4b10-b3af-e483213c38b1",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "57fc7401-53b7-4622-a02b-105fef7ee10f",
+   "metadata": {},
+   "source": [
+    "# Q3"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "dbf6005c-c436-49ff-bd38-158695ea4b86",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c88ca89d-4d42-4913-9beb-1ef5b8d10b86",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d1449e31-8207-4bb4-b945-2d25249e0ca2",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "30d2dfab-b16d-44ac-bfa0-bbf477d52447",
+   "metadata": {},
+   "source": [
+    "# Q4"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a8205da3-8003-46b4-94ed-021f9493c640",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "848c0926-a585-4225-a418-31b60e38df18",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "853657ba-14fc-47cb-bbcd-b8fa70710583",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2fabc36a-61e9-4433-97a2-17d968657d75",
+   "metadata": {},
+   "source": [
+    "# Q5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "710ebd77-3952-436e-a0cd-9245a7abf542",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "cd7c9556-fa5f-42fa-a378-14dc358ff335",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0ff087cd-4730-44a4-b321-bedfaa0d093c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8ed41b51-5184-40de-be2d-53ec85b46479",
+   "metadata": {},
+   "source": [
+    "# Q6"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9d76f963-1ece-4378-b83e-cdf1e94408f8",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5b643ac4-ca1e-4aef-8649-1fe141a71b3f",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "49180eec-6619-4ec4-bead-f576261d42e7",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bbf421a4-4e7e-4ca4-9b62-d9aa124fbdaf",
+   "metadata": {},
+   "source": [
+    "# Q7"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "197f3f28-99bc-4093-a1e4-c17de5ec5451",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "eec36d7c-018a-4b9a-a919-138d27ae23ad",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ecfd1abc-04c6-449f-b0ea-16836935b023",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "eb9ae354-05f7-4240-b4a3-ba32c805eec2",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
